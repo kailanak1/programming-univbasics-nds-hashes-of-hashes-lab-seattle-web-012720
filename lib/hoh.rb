@@ -44,6 +44,14 @@ def naming_system
   
  
 naming_system = {
+  label: "Kingdom",
+   sub_category: {
+     label: "Phylum",
+     sub_category: {
+       label: "Class"
+     }
+   }
+ }
   
 }
 return naming_system
