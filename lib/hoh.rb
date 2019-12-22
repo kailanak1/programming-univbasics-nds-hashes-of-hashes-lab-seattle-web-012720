@@ -43,7 +43,6 @@ def naming_system
   # HoH all the way to Species!
 naming_system = {
 }
-puts PORTION_1
 return naming_system
 
 end
