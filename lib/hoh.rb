@@ -44,8 +44,7 @@ def naming_system
   
  
 naming_system = {
-  PORTION_1
- 
+
 }
 return naming_system
 end
