@@ -43,6 +43,7 @@ def naming_system
   # HoH all the way to Species!
 naming_system = {
 }
-return naming_system
 print PORTION_1
+return naming_system
+
 end
